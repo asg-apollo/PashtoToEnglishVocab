@@ -1,0 +1,4 @@
+chair.jpg,chair,څوکۍ
+desk.png,desk,میز
+pencil.png,pencil,پنسل
+computer.png,computer,کمپیوټر

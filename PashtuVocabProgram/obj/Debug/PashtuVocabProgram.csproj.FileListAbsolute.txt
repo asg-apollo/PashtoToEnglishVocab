@@ -1,0 +1,10 @@
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\bin\Debug\PashtuVocabProgram.exe.config
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\bin\Debug\PashtuVocabProgram.exe
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\bin\Debug\PashtuVocabProgram.pdb
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.csprojAssemblyReference.cache
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.Form1.resources
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.Properties.Resources.resources
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.csproj.GenerateResource.cache
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.csproj.CoreCompileInputs.cache
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.exe
+H:\ICT\CS20\VS\Unit One\PashtuVocabProgram\PashtuVocabProgram\PashtuVocabProgram\obj\Debug\PashtuVocabProgram.pdb
