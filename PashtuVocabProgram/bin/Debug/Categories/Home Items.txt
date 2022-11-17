@@ -1,0 +1,3 @@
+house.jpg,House,کور
+fridge.jpg,Fridge,فرج
+sink.jpg,Sink,ډوب

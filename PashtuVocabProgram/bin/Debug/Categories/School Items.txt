@@ -1,0 +1,14 @@
+chair.jpg,Chair,څوکۍ
+desk.jpg,Desk,میز
+pencil.png,Pencil,پنسل
+computer.jpg,Computer,کمپیوټر
+backpack.jpg,Backpack,کڅوړه
+waterBottle.jpg,Water Bottle,کڅوړه
+binder.jpg,Binder,کڅوړه
+paper.jpg,Paper,کاغذ
+eraser.jpg,Eraser,پاکونکی
+student.jpg,Student,زده کوونکی
+teacher.jpg,Teacher,ښوونکی
+door.jpg,Door,دروازه
+keyboard.jpg,Keyboard,کیبورډ
+mouse.jpg,Mouse,موږک
