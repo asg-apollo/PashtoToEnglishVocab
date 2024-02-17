@@ -1,0 +1,1 @@
+A small application to teach basic English to a native Pashtu speaker. Features include naming objects (ex. a picture of a chair is shown, the name is given in Pashtu, please name in English). Fully supports an editable list, translator, and a couple other basic features.
